@@ -23,4 +23,6 @@ function highlightCups(idx) {
             cup.classList.remove('full')
         }
     })
+    
+    updateBigCup()
 }
